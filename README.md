@@ -151,46 +151,6 @@ The application uses CSV files for data persistence:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🐛 Known Issues
-
-- CSV parsing doesn't handle commas within data fields
-- Limited to Windows platform due to system-specific calls
-- No data encryption for stored files
-
-## 🚀 Future Enhancements
-
-- [ ] Database integration (MySQL/SQLite)
-- [ ] Cross-platform compatibility
-- [ ] GUI interface
-- [ ] Advanced search and filtering
-- [ ] Report generation
-- [ ] Email notifications
-- [ ] Data encryption
-- [ ] Backup and restore functionality
-
-## 📞 Support
-
-For support, questions, or suggestions, please:
-- Open an issue on GitHub
-- Contact the development team
-- Check the documentation
-
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
-## 🙏 Acknowledgments
-
-- Thanks to all contributors
-- Inspired by real-world blood bank management needs
-- Built with modern C++ best practices
-
 ---
 
 ⭐ **Star this repository if you find it helpful!**
